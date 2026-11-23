@@ -248,7 +248,7 @@ export default function App() {
 
       {/* Footer */}
       <footer className="border-t border-slate-900 bg-slate-950/80 py-4 text-center text-xs text-slate-500">
-        <p>NexusCRM — Enterprise Lead Lifecycle & Customer Retention System • Built with React & Tailwind CSS</p>
+        <p>PulseDesk — Enterprise Lead Lifecycle & Customer Retention System • Built with React & Tailwind CSS</p>
       </footer>
 
       {/* Modals */}
